@@ -23,7 +23,7 @@ def get_coordinates(three_words)
 
 end
 
-def hydrate_address(question)
+def sanitize_address(question)
 
     origin_address = @prompt.ask(question)
 
