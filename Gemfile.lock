@@ -16,7 +16,7 @@ GEM
     coderay (1.1.2)
     concurrent-ruby (1.1.5)
     equatable (0.6.1)
-    geocoder (1.5.2)
+    geocoder (1.6.1)
     i18n (1.7.0)
       concurrent-ruby (~> 1.0)
     json (2.2.0)
